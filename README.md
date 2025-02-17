@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-config-wspace/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Расширение (модуль) панели управления "Версия"
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-config-wspace/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Расширение (модуль) панели управления "Рабочее пространство"
 
-Информация о версии веб-приложения GearMagic.
+Настройка интерфейса рабочего пространства GM Panel.
 
 Этот модуль является расширением для [модуля "Конфигурация"](https://github.com/gearmagicru/gm-be-config).
 
